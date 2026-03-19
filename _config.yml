@@ -10,7 +10,7 @@ baseurl                  : "/personalpage"
 repository               : "nqthanh2101hcmut/personalpage"
 
 author:
-  avatar           : "images/ava.png"
+  avatar           : "ava.png"
   name             : "Thanh Nguyen"
   bio              : "Math, Physics, and Machine Learning"
   location         : "Vietnam"
