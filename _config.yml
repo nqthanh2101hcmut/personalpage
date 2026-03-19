@@ -23,7 +23,7 @@ repository               : "nqthanh2101hcmut/thanhnguyen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hinh the 4x5.png"
+  avatar           : "images/ava.png"
   name             : "Thanh Nguyen"
   pronouns         : # example: "she/her"  
   bio              : "Math, Physics and Machine Learning"
