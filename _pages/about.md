@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-Welcome to my homepage! I am Thanh Nguyen, a graduate researcher in Applied Mathematics at Ho Chi Minh City University of Technology (VNU-HCM).
+Welcome to my homepage! I am Thanh Nguyen, a graduate student and researcher in Applied Mathematics at Ho Chi Minh City University of Technology (VNU-HCM).
 
 My research lies broadly in the mathematical foundations of generative models. I am particularly interested in objective design, density estimation, score-based learning, and the theoretical principles behind modern generative methods such as diffusion models and normalizing flows.
 
